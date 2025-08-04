@@ -1,4 +1,4 @@
-This is a modified version of the DiffRIR model that supports training with multiple source positions. Single-source training can still be performed without any changes. Multi-source training has been tested exclusively with RIRs. Additional metrics have been added for validation. trace_mp.py is an improved version for computing precomputed reflection paths and supports multiprocessing. Instructions for using DiffRIR in multi-source mode can be found in the section # Training and Evaluation.
+This is a modified version of the DiffRIR model that supports training with multiple source positions. Single-source training can still be performed without any changes. Multi-source training has been tested exclusively with RIRs. Additional metrics have been added for validation. trace_mp.py is an improved version for computing precomputed reflection paths and supports multiprocessing. Instructions for using DiffRIR in multi-source mode can be found in the section # Multi-Source Training and Evaluation.
 Modified by Luka Fehrmann, 2025
 
 # Hearing Anything Anywhere - CVPR 2024
