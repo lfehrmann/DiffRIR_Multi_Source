@@ -75,7 +75,7 @@ In the above example:
 
 ## Multi-Source Training and Evaluation
 
-To train the model with a dataset containing multiple source positions (e.g., shoebox_multi_src6_ti3_id.py), the paths to the precomputed reflection paths must be specified in the same order as the sources are listed in the dataset file located at /rooms/shoebox_multi_src6_ti3_id.py.
+To train the model with a dataset containing multiple source positions (e.g., ```"shoebox_multi_src6_ti3_id.py```), the paths to the precomputed reflection paths must be specified in the same order as the sources are listed in the dataset file located at ```rooms/shoebox_multi_src6_ti3_id.py```.
 
 For the given example, simply run:
 ```
